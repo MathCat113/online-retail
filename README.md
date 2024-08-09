@@ -7,6 +7,8 @@
 
 - Conducted comprehensive Exploratory Data Analysis (EDA) to uncover key patterns and trends, enhancing data-driven decision making.
   ![ảnh](https://github.com/user-attachments/assets/1971c560-3963-49f4-aefc-b7d3818e84bc)
+  ![ảnh](https://github.com/user-attachments/assets/2453f52e-108d-4bf1-8598-161157bc5add)
+
 
 - Applied RFM Analysis coupled with K-means clustering to segment customers, providing actionable insights for targeted marketing and customer retention strategies.
   ![ảnh](https://github.com/user-attachments/assets/fb6a3c39-87e0-46c7-8764-60394fafa1b9)
